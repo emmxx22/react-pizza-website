@@ -34,7 +34,7 @@ const Footer = () => {
                 <FaYoutube />
               </SocialIconLink>
               <SocialIconLink
-                href='//www.twitter.com/emmanueloreva'
+                href='//www.twitter.com/emmanueloreva12'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
